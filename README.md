@@ -4,10 +4,7 @@ DNS issues Virtual Box / Example configuration of GNU Name Service Switch functi
 The original /etc/nsswitch.conf looks like this:
 
 # /etc/nsswitch.conf
-#
-# Example configuration of GNU Name Service Switch functionality.
-# If you have the `glibc-doc-reference' and `info' packages installed, try:
-# `info libc "Name Service Switch"' for information about this file.
+
 
 passwd:         compat
 group:          compat
