@@ -7,3 +7,5 @@ To solve this issue you need to change the /etc/nsswitch.conf file.
 See nsswitch.conf.org for the original setting
 
 See nsswitch.conf.new for the new (working) setting.
+
+22:46 / 1-december-2015
