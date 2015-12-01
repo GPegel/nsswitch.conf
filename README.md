@@ -21,5 +21,4 @@ rpc:            db files
 netgroup:       nis
 
 
-But to get rid of the DNS issues in a .local environemnt while being loggen in into a virtual Ubuntu instance in VirtualBox you have to change line 16 into:
-hosts:          files dns
+But to get rid of the DNS issues in a .local environemnt while being loggen in into a virtual Ubuntu instance in VirtualBox you have to change line that says "hosts" into "files dns"
